@@ -82,7 +82,7 @@
  "lanes": [
   {
    "name": "main",
-   "note": "on GitHub · 1.2.1 shipped",
+   "note": "pushed · 1.2.1 shipped",
    "item": "release"
   },
   {
@@ -125,7 +125,7 @@
  "flags": [],
  "bands": [],
  "fileGroups": [],
- "graphHint": "Filled dots are on GitHub, hollow ones only on this Mac. Click a dot to open that commit.",
+ "graphHint": "Filled dots are pushed, hollow ones aren't yet. Click a dot to open that commit.",
  "commits": [
   {
    "h": "1a2b3c4",
@@ -506,7 +506,7 @@
     "4 branches"
    ],
    "title": "Four pieces of work since 1.2.1",
-   "lede": "Lumen 1.2.1 shipped on 6 Nov. Since then: search is ready, a sync fix needs one change, sharing links are parked, and the 1.3 launch page waits on search. None of it is on GitHub yet.",
+   "lede": "Lumen 1.2.1 shipped on 6 Nov. Since then: search is ready, a sync fix needs one change, sharing links are parked, and the 1.3 launch page waits on search. None of it is pushed yet.",
    "blocks": [
     {
      "type": "asks",
