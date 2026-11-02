@@ -1,0 +1,4 @@
+# Private reviews built from this kit stay out of the public repo.
+examples/afk-*.html
+.DS_Store
+__pycache__/
